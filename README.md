@@ -31,8 +31,6 @@ I am a Full Stack Developer. <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - :telescope: I’m working as a Aspiring Full Stack Developer at AirCampus and contributing for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/puran-chandra-lohar-75a523b4)
 
 
