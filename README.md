@@ -33,6 +33,15 @@
 </p>
 </div>
 
+---
+
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=puranchandralohar&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puranchandralohar&layout=compact&theme=vision-friendly-dark)](https://github.com/puranchandralohar/github-readme-stats)
+
+---
+
 <h4>
 Connect with Me 🤝🏻 &nbsp;
 </h4>
