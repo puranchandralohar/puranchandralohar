@@ -40,3 +40,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
 </div>
+
+<h4 align="center">
+Connect with Me 🤝🏻 &nbsp;
+</h4>
+    
+  <div align="center">
+ <a href="https://www.linkedin.com/in/puranchandralohar/">
+    <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="35" height="35"> </a>
+ </div>
