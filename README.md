@@ -21,9 +21,9 @@
 Connect with Me 🤝🏻 &nbsp;
 </h4>
 
-<div>
-    <p>LinkedIn : <a href="https://www.linkedin.com/in/puranchandralohar/">puranchandralohar</a></p>
-    <p>Email Id : clpuran95@gmail.com</p>
-    <img src="https://komarev.com/ghpvc/?username=puranchandralohar&style=flat-square&color=blue" alt=""/>
-</div>
+- Email: [clpuran95@gmail.com](mailto:clpuran95@gmail.com)
+- Linkedin: [puranchandralohar](https://www.linkedin.com/in/puranchandralohar/)
+
+
+<img src="https://komarev.com/ghpvc/?username=puranchandralohar&style=flat-square&color=blue" alt=""/>
  
